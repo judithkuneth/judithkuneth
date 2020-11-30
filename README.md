@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**judithkuneth/judithkuneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a digital product manager and tech enthusiast with an entrepreneurial mindset and a passion for great product design. 
 
-Here are some ideas to get you started:
+✨My mission is to deliver sustainable solutions that improve people's lives and to learn something new every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Quicksy (next-js-survey-maker) WebApp
+- 🌱 I’m currently learning Javascript, Next.js, CSS, PostgreSQL, A11Y, SCRUM
+- 👯 I’m open to contribute to exciting projects and a new challenge
+- 💬 Ask me about startups, rock climbing 
+
+- 📫 How to reach me: 
+      Linkedin: linkedin.com/in/judith-kuneth
+      Email:    judith.kuneth@gmail.com
+
