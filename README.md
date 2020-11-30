@@ -1,4 +1,4 @@
-### Hi, I'm Judith 👋
+### Hi, I'm Judith 
 
 🚀 I'm a product manager and junior developer with an entrepreneurial mindset and a passion for great product design. 
 
