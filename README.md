@@ -10,6 +10,6 @@
 - 💬 Ask me about startups, rock climbing 
 
 - 📫 How to reach me: 
-      Linkedin: linkedin.com/in/judith-kuneth
+      Linkedin: www.linkedin.com/in/judith-kuneth
       Email:    judith.kuneth@gmail.com
 
