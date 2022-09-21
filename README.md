@@ -1,6 +1,6 @@
 ### Hi, I'm Judith 
 
-🚀 I'm a product manager and junior developer with an entrepreneurial mindset and a passion for great product design. 
+🚀 I'm a frontend developer and UX designer with an entrepreneurial mindset. 
 
 ✨My mission is to deliver sustainable solutions that improve people's lives and to learn something new every day
 
