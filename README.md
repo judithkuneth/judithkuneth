@@ -1,14 +1,10 @@
 ### Hi, I'm Judith 
 
-🚀 I'm a frontend developer and UX designer with an entrepreneurial mindset. 
+🚀 I'm a frontend developer and UX designer. 
 
-✨My mission is to deliver sustainable solutions that improve people's lives and to learn something new every day
+✨My mission is to develop sustainable solutions with great user experiences and to learn something new every day.
 
-- 🔨 currently working on different Web Apps and projects
-- 🌱 currently learning Javascript, Vue.js, Typescript
-- 🔥 open for new exciting projects and a new challenge
+🔨I'm currently working with Javascript, Vue.js, Typescript
 
-
-- 📫 How to reach me: 
-       www.linkedin.com/in/judith-kuneth | judith.kuneth@gmail.com | +43 676 83555785
+📫 Get in touch via www.linkedin.com/in/judith-kuneth | judith.kuneth@gmail.com | +43 676 83555785
 
