@@ -2,7 +2,7 @@
 
 🚀 I'm a frontend developer and UX designer. 
 
-✨My mission is to develop sustainable solutions with great user experiences and to learn something new every day.
+✨My mission is to develop sustainable solutions and a great user experience ..and to learn something new every day.
 
 🔨I'm currently working with Javascript, Vue.js, Typescript
 
